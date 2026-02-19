@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ### 👋 Ciao, sono Andrea!
 👨‍💻 Studente di Ingegneria e Scienze Informatiche all'Università di Bologna (Campus di Cesena).
 🌱 Attualmente sto approfondendo Java, Design Patterns e sviluppo Web.
+
+### 📊 GitHub Stats
+[![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=andreafronzi&show_icons=true&theme=default)](https://github.com/TUO_USERNAME)
