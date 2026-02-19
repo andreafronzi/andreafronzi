@@ -49,6 +49,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Algoritmi_&_Strutture_Dati-FF8C00?style=for-the-badge&logoColor=white" alt="Algoritmi e Strutture Dati"/>
   <img src="https://img.shields.io/badge/Ricerca_Operativa-4B0082?style=for-the-badge&logoColor=white" alt="Ricerca Operativa"/>
+  <img src="https://img.shields.io/badge/Metodi_Numerici_&_AI-008080?style=for-the-badge&logoColor=white" alt="Intelligenza Artificiale"/>
 </p>
 
 **🧰 Tools & Version Control:**
