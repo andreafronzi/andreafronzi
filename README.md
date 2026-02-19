@@ -45,8 +45,7 @@
 
 * **Algoritmi e Strutture Dati:** Solida base accademica su Liste, Alberi, Grafi e algoritmi di esplorazione/ottimizzazione (es. Ordinamento, BFS, DFS, Dijkstra, Alberi di costo minimo).
 * **Ricerca Operativa:** Conoscenze di base nella modellizzazione matematica per l'ottimizzazione delle decisioni e la risoluzione di problemi complessi (Algoritmo del simplesso primale e duale, programmazione lineare intera, grafi e alberi).
-
-**🧠 Computer Science Foundations:**
+  
 <p align="left">
   <img src="https://img.shields.io/badge/Algoritmi_&_Strutture_Dati-FF8C00?style=for-the-badge&logoColor=white" alt="Algoritmi e Strutture Dati"/>
   <img src="https://img.shields.io/badge/Ricerca_Operativa-4B0082?style=for-the-badge&logoColor=white" alt="Ricerca Operativa"/>
