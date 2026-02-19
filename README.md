@@ -41,6 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" title="npm"/>
 </p>
 
+**🧠 Computer Science Foundations:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Algoritmi_&_Strutture_Dati-FF8C00?style=for-the-badge&logoColor=white" alt="Algoritmi e Strutture Dati"/>
+  <img src="https://img.shields.io/badge/Ricerca_Operativa-4B0082?style=for-the-badge&logoColor=white" alt="Ricerca Operativa"/>
+</p>
+
 **🧰 Tools & Version Control:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
