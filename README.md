@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 👋 Ciao, sono Andrea!
+👨‍💻 Studente di Ingegneria e Scienze Informatiche all'Università di Bologna (Campus di Cesena).
+🌱 Attualmente sto approfondendo Java, Design Patterns e sviluppo Web.
