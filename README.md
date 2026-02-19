@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🌱 Attualmente sto approfondendo Java, Design Patterns e sviluppo Web.
 
 ### 📊 GitHub Stats
-[![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=andreafronzi&show_icons=true&theme=default)](https://github.com/TUO_USERNAME)
+[![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=andreafronzi&show_icons=true&theme=default)](https://github.com/andreafronzi)
