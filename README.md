@@ -1,18 +1,18 @@
-### 👋 Ciao!
+### 👋 Hi!
 
-🎓 Studente di Ingegneria e Scienze Informatiche all'Università di Bologna (UniBo), Campus di Cesena.
+🎓 Computer Science and Engineering student at the University of Bologna (UniBo), Cesena Campus.
 
 ---
 
-### 🚀 Su di me
+### 🚀 About Me
 
-📚 Attualmente studio Ingegneria e Scienze Informatiche all'Università di Bologna. Affianco allo studio lo sviluppo di progetti universitari e personali, cercando sempre di scrivere codice pulito e applicare i concetti di ingegneria del software (come OOP e Design Patterns). 
+📚 I am currently studying Computer Science and Engineering at the University of Bologna. Alongside my studies, I develop academic and personal projects, always striving to write clean code and apply software engineering concepts (such as OOP and Design Patterns). 
 
 ---
 
 ### 📊 GitHub Stats
 
-[![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=andreafronzi&show_icons=true&theme=default)](https://github.com/andreafronzi)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreafronzi&show_icons=true&theme=default)](https://github.com/andreafronzi)
 
 ---
 
@@ -43,13 +43,14 @@
 
 ### 🧠 Core Concepts & Foundations
 
-* **Algoritmi e Strutture Dati:** Solida base accademica su Liste, Alberi, Grafi e algoritmi di esplorazione/ottimizzazione (es. Ordinamento, BFS, DFS, Dijkstra, Alberi di costo minimo).
-* **Ricerca Operativa:** Conoscenze di base nella modellizzazione matematica per l'ottimizzazione delle decisioni e la risoluzione di problemi complessi (Algoritmo del simplesso primale e duale, programmazione lineare intera, grafi e alberi).
+* **Algorithms and Data Structures:** Solid academic foundation in Lists, Trees, Graphs, and exploration/optimization algorithms (e.g., Sorting, BFS, DFS, Dijkstra, Minimum Spanning Trees).
+* **Operations Research:** Basic knowledge of mathematical modeling for decision optimization and complex problem solving (Primal and dual simplex algorithms, integer linear programming, graphs, and trees).
+* **Numerical Methods & AI:** Study of numerical methods applied to Artificial Intelligence, with an introductory understanding of the mathematical foundations for Machine Learning and the Backpropagation algorithm.
   
 <p align="left">
-  <img src="https://img.shields.io/badge/Algoritmi_&_Strutture_Dati-FF8C00?style=for-the-badge&logoColor=white" alt="Algoritmi e Strutture Dati"/>
-  <img src="https://img.shields.io/badge/Ricerca_Operativa-4B0082?style=for-the-badge&logoColor=white" alt="Ricerca Operativa"/>
-  <img src="https://img.shields.io/badge/Metodi_Numerici_&_AI-008080?style=for-the-badge&logoColor=white" alt="Intelligenza Artificiale"/>
+  <img src="https://img.shields.io/badge/Algorithms_&_Data_Structures-FF8C00?style=for-the-badge&logoColor=white" alt="Algorithms and Data Structures"/>
+  <img src="https://img.shields.io/badge/Operations_Research-4B0082?style=for-the-badge&logoColor=white" alt="Operations Research"/>
+  <img src="https://img.shields.io/badge/Numerical_Methods_&_AI-008080?style=for-the-badge&logoColor=white" alt="Artificial Intelligence"/>
 </p>
 
 **🧰 Tools & Version Control:**
